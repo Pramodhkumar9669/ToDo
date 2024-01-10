@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="defaultheigth">35dp</dimen>
+    <dimen name="priorityheigth">50dp</dimen>
+    <dimen name="progressheigth">50dp</dimen>
+    <dimen name="textlength">286dp</dimen>
+    <dimen name="layoutmargin">16dp</dimen>
+    <dimen name="textdim">22sp</dimen>
+</resources>

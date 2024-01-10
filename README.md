@@ -29,7 +29,9 @@ Android device or emulator for testing.
 
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/todo-app.git
+'''
+https://github.com/Pramodhkumar9669/ToDo.gi
+'''
 
 Open the project in Android Studio.
 
